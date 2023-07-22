@@ -3,11 +3,6 @@
 I'm an enthusiastic developer deeply passionate about JavaScript and its applications in Full Stack Web Development, Modern UI Development, and Scalable Software.
 
 
-## ⚡ GitHub Stats
-
-
-[![Alisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=alishabhale)](https://github.com/alishabhale/github-readme-stats)
-
 ## Languages 
 <span><img src="https://img.icons8.com/color/48/000000/javascript.png"/></span>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
