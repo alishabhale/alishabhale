@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm <a href="https://github.com/alishabhale">Alisha!</a></h1>
+<h1 align="center"> Hi , I'm <a href="https://github.com/alishabhale"> Alisha!</a></h1>
 
 I'm an enthusiastic developer deeply passionate about JavaScript and its applications in Full Stack Web Development, Modern UI Development, and Scalable Software.
 
